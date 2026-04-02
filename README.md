@@ -17,4 +17,4 @@ Le firewall fonctionne correctement et permet de contrôler le trafic réseau.
 - Configuration réseau de base
 - Utilisation de la virtualisation (VMware)
 ## Documentation
-[Voir le compte rendu complet](pfsense-firewall-lab-jeremy.pdf)
+[Voir le compte rendu](Projet firewall.pdf)
